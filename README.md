@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreenirgithub
 - 👀 I’m interested in cloud computing and mainframe migration to cloud
 - 🌱 I’m currently learning AWS - Amazon Web Services on Udemy
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AWS Cloud projects
 - 📫 How to reach me on twitter @sreenir
 
 <!---
